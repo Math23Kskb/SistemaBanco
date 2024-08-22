@@ -1,13 +1,12 @@
 public class Cliente {
 
-    private String nome;
+    private String nomeCliente;
 
-    public String getNome(String nome) {
-        return nome;
+    public String getNomeCliente() {
+        return nomeCliente;
     }
 
-    public void setNome(String nome) {
-        this.nome = nome;
+    public void setNomeCliente(String nomeCliente) {
     }
 
 }
